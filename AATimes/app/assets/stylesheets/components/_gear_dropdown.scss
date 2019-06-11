@@ -1,0 +1,15 @@
+.gear-dropdown hidden {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+}
+
+.gear-dropdown > li {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+}
+
+.editions ul {
+  border-bottom: 1px solid $light-gray;
+}
